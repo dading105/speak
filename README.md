@@ -1,7 +1,7 @@
 # speak
 泛在电力物联网
 
-智能配电房语音识别 python 百度语音 图灵机器人
+智能配电房语音识别 python Node.js 百度语音 图灵机器人
 
 导入硬件语音库
 from pydub import AudioSegment
